@@ -46,13 +46,13 @@ Mirrors:
 *main mirror
 Google Drive @ bit.ly/CrystalUnblocker
 *redundant mirror
-Mega @ [mega download link]
+Mega @ https://mega.nz/#F!3LRiAKZA (decryption key: QzZlYXCGi51cUJ5ols81TA )
 
 *alternate mirrors:
 *GitHub mirror (see step 3)
-GitHub @ (GitHub mirror)
+GitHub @ https://github.com/JIBSIL/crystal-unblocker
 *alternate mirror 1 (fastest download, use Adblock (I recommend uBlock Origin))
-Media fire @ (mediafire download link)
+Media fire @ http://www.mediafire.com/folder/fs6afupgz1dk3/gaccleajpkejfibedibgacipdpedgndg
 *Specal mirrors:
 *main website (not yet up) (please do not use unless all other mirrors are down to save us bandwidth)
 
