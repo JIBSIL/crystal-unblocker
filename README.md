@@ -8,7 +8,7 @@ See moreinfo.md for more info on this project
 
 # How to install:
 
-Go to Releases and download the folder. The link is here: https://github.com/JIBSIL/crystal-unblocker/releases
+Go to Releases and download the folder. The link is here: https://github.com/JIBSIL/crystal-unblocker/releases . 
  Go to your Chrome extensions via Settings (the gear) —> more tools —> extensions.
  Go to Developer Mode at the top of the page and switch it on.
  Click Load Unpacked Extention at the top of the page.
