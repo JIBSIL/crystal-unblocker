@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Crystal Unblocker 1.0",
-  "version": "1.0",
+  "name": "ShadowGame",
+  "version": "2.1",
   "author": "JIBSIL <tech101file@gmail.com>",
 
-  "description": "Crystal unblocker version 1.0 by JIBSIL",
+  "description": "ShadowGame version 2.1 by JIBSIL",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
